@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/hraefn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hraefn.net
+  * I am hraefn (https://keybase.io/hraefn) on keybase.
+  * I have a public key with fingerprint 5D55 8152 3E3F 9618 1322  162D 137D 24F0 B99A D61F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c832edbaff730665d1a4e7423041222edc294bdfe26e453e708972c3d36c53140a",
+      "fingerprint": "5d5581523e3f96181322162d137d24f0b99ad61f",
+      "host": "keybase.io",
+      "key_id": "137d24f0b99ad61f",
+      "kid": "0101c832edbaff730665d1a4e7423041222edc294bdfe26e453e708972c3d36c53140a",
+      "uid": "39da06e93b892720fbfc270d070aa619",
+      "username": "hraefn"
+    },
+    "merkle_root": {
+      "ctime": 1560339836,
+      "hash_meta": "4ae7f4af8e1d17f355945ea59d1c201e473da72bf73f2d782b5b1c7da5c8395b",
+      "seqno": 5555292
+    },
+    "revoke": {
+      "sig_ids": [
+        "0acf152d7e8e6480055703560f159648650f0f3f1011821346d92c3b8648843a0f"
+      ]
+    },
+    "service": {
+      "hostname": "hraefn.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1560339851,
+  "expire_in": 157680000,
+  "prev": "85a39354eb991d0623b296ff24d548b4aa4b1c7ab13d7cb0a7ae34917a052444",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMK0AnicrZNdaB1FGIbPaZIGT1PthXhTUFhtQBLK/O7sHFBR1EIgSquotI2H2Z1v
+km2S3ZPdzTGhDdYYjWIRf0FFLbmISoutsZHiTxObtiAotihto6Y3gVIlokS9aBtp
+nA2KKF66N8t+837vvN+zM8fX1hVKxet/Kx3svvzt4eLnM0l/oaNw/pmdjh/rQae8
+0+mGlRf0aEizSneonbKDMMKBRwloXxkjKHJdrrFiIBihiGFC7FJAJPO1AeIC4xQE
+8qQgAdXUDTjFDCmn1TFh1AlJNQmjzNpyzbmHOaFAjXSxhykh2CUaU6EJM8iXUmkX
+G9vYFad5hw3nqxQ2hrGt2Y/KSrz/0P/PuftX7KjUCrkgqe9JIggyvgmIQBoJpJSL
+ZS5MIYlUL1h1V6LARM5Qq9MLSXcPVJI4znK0QRbmAsxdRKn0qGvHU2lXpRcyZfuY
+AmGYMh5gjYWhnEvGQXGpcUAQBiaoVoL4dh5DtPCIz30cCK24HVVy36ZIoS+KnTK3
+D5HEJkigFndDvnkadlpoqVPe5iAVGEtfC/DAZR5CnAtEbSpblbbgcmSQocZCxB7B
+lLlaWjC+Z9c8RhUyTsdQvllSC4MV8/wv/WP6jRFkNk81ibM4iHvyepZV03JOJRus
+5sJHwK/8aVHxw0jbE2I7apCkYRxZSlb5L2ActzowUA0TqIS5ggvXhkco3wdq1tLj
+ikrKGdgDgTVyCfWJdI0hTHPm+UwplhNTPqZaBD5SQgFlEguFOGGM/U2QcJtTdVpP
+yy1SWX8CztDMp9vrC8VSYXXDqvzqFEpXrfvrQo02NS633XCi8cKJ4ZemXvtEf/Py
+8tlV0+eKxT11r5xu++j+8W3HTx2erX96/sYNL343dtuR5WOvvhHdtXV4YvDosbOz
+dbPv7D83OvNzuWF4y9JDzpN7D12cbK7URu5bu7D5s7nzY9/37Wv1flq/9OFpuqbp
+93b93o5w71dzW1sef3fPTWfeFmvGv14YaMC7erffPDJ78oXNt6jnx6/dcE3fQNPE
+lruvwNyvbbd33NqYXv3W9KYHB0ZRy9Q97c+l1z388cGL/U91/ND8wfwXE3c8++Ni
+18m61x9Y3b5+7tJjLVPTRxZ2Lx4dGdv0pVi8F03WT765o5SdYcv7LxwQrpMuoUtX
+Tu16/4ndo482zx/45XKzvrPvD+a3hHw=
+=g9ln
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hraefn
+
+==================================================================
