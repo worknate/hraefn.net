@@ -1,6 +1,6 @@
 # hraefn.net
 
-I am a software engineer with [Move, Inc.](https://www.move.com/). In my spare time I collect hobbies. All opinions my own.
+I am a software engineer with [Move, Inc](https://www.move.com/). In my spare time I collect hobbies. All opinions my own.
 
 Copyright © 2019 Nathan Stilwell
 
