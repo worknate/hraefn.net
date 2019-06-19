@@ -1,0 +1,6 @@
+date: 2006-02-15 19:42:59
+title: PBWiki Delivers the Goods
+tags: ops
+---
+
+I really wanted to give Wikis a chance, after all the buzz they have generated in the past few years.  I knew that [Gabe and Tycho](https://www.penny-arcade.com/) had set one up for their [Elementstor Saga](http://elothtes.pbwiki.com/), so I decided to check it out in more detail.  They used a service called [PBWiki](http://www.pbworks.com/wikis.html) so I gave it a try.  The PBWiki syntax is compelling, more than just a variation of WikiWikiWeb, and much more like a truncated blend of Wiki, Textile and Markdown.  I immediately signed up for their premium service.

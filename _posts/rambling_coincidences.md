@@ -1,0 +1,20 @@
+date: 2004-07-24 07:15:19
+title: Rambling Coincidences
+tags: words
+---
+
+I have just recently finished The Song of Susannah, the sixth volume of Steven King's The Dark Tower.  The sheer number of authored coincidences draws me in like few books do; the way everything in Roland's world has a cross-reference with parallel realities keeps me turning the pages long after my body first asked for rest.  It reminds me of a list I have seen several times over the years, a list comparing Abraham Lincoln to John F. Kennedy.  This list goes on in an amazing description of the coincidental facts between the two men; the number of letters in their names, where they were born, dates and numbers related to their presidency.  The idea that Lincoln's murderer fled from a theater to be captured in a warehouse, and that Kennedy's assassin fled from a warehouse to be captured in a theater.
+
+The mother-in-law gave me a book a couple years ago, [Look Homeward, Angel](https://en.wikipedia.org/wiki/Look_Homeward,_Angel).  There was a dry, old, strange quality to the story that reminded me of [Uncovered Wagon](https://www.amazon.com/Uncovered-Wagon-Hart-Stilwell/dp/B000H58SIO), a family treasure if there ever was one.  This telling of the life of a chap from before his birth into childhood was warmly familiar; I had heard the story of my grandfather careening around with his tricycle long before I read about it in Wagon, but having it as part of a written novel, despite the thin veil of name changes, was somehow earth-shattering.  But I digress; I'm getting away from the point.
+
+In the Dark Tower, King uses quotes from Angel not only as fancy lines before the start of each chapter, but as key elements in the story of Roland and his ka-tet.  "The leaf, stone, and door" as it goes.  The only old book I own.
+
+Why no old books?  Because of the fire that destroyed my family's home in November 1999.  My vast library of books, old an new, from Tolkein to King, Clancy to Heinlein, all gone up in a matter of minutes from the top story.  The burning of 451 Old Lock 12 Rd... is this the same 451 degrees Fahrenheit made famous by Bradbury?
+
+I had a vivid dream last night of Stephen King telling, in great detail, the horror of the last minutes within the Twin Towers on 9/11/2001.  Very strange to hear/read in a dream, especially words from an author, words that have never actually been written.  I woke to see the alarm clock staring at me with it's baleful, cursed red eyes set to 9:11.
+
+I think of that snake Michael Moore and his Fahrenheit 9/11, and of the old-style metal tricycles my brother and I used to careen around the old Stilwell house on Stewart Street, where a row of apartment buildings now stand.  This takes me to the house on Smith Mountain Lake, my other grandfather's crowning material achievement now sits with a For Sale sign out front, the pictures posted on the internet showing only a few pieces of furniture in an otherwise very empty house.
+
+I think what I am feeling now is a great desire to begin writing again.  Long, long past are the days when I felt the need to gush forth in romantic poetry meant only for my own bleeding heart, or very short stories, the seeming purpose of which was only to somehow capture my teenage desire for True Love with a shining knight and a wood nymph.  Saying that hurts me somewhat; what I really want to write is the story of the Hraefn, which in many ways is the need to write something much longer and much better than anything I have written before.  It does not have to be publishable, only complete.  It has to exist because of that lost short story of impossible love between a medieval soldier and a fantasy forest maiden.  I want to take a man, a sad, complex man with a dark and multi-faceted past, into the vastness of all of time and space, challenge his mind, his senses, his body, like some kind of maniac weightlifting chess player.  Glorious landscapes, beautiful women, and horrible monsters the like of which could only have pored directly from Grendal's womb.
+
+Maybe I should get started.  Maybe tomorrow heh.
