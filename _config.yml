@@ -5,6 +5,6 @@ kramdown:
    hard_wrap: false
 future: true
 jailed: false
-theme: jekyll-theme-clean-blog
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 gfm_quirks: paragraph_end
 author: Nate
