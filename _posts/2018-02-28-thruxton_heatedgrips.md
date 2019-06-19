@@ -2,6 +2,7 @@
 date: 2018-02-28
 title: Thruxton 1200 Heated Grips
 tags: motorsports
+background: /assets/photos/thruxton/triumph_thruxton_r_engine_side.jpg
 ---
 
 I found some time to start the install for my Triumph heated grips. While the kit came with a harness, the Thruxton appeared to be pre-wired.

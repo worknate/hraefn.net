@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
-description: This is the page description.
-background: '/PATH_TO_IMAGE'
+background: /assets/photos/west_virginia/monongahela.jpg
 ---
+
+Feel free to message me on [Twitter](https://twitter.com/hraefn) or follow me on [Github](https://github.com/worknate)

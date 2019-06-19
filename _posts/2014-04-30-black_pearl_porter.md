@@ -2,6 +2,7 @@
 date: 2014-04-30
 title: "Beer Recipe : Black Pearl Porter"
 tags: beer
+background: '/assets/photos/beer/2014-05-30_1927.jpg'
 ---
 
 [homebrewtalk.com](http://www.homebrewtalk.com/f126/black-pearl-porter-ag-24243)

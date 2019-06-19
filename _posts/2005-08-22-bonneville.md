@@ -12,7 +12,7 @@ I was looking hard for some kind of compromise.  Naked sportbikes, like the swee
 
 Then I saw the [Triumph Bonneville](http://ridermagazine.com/2005/10/29/2005-triumph-bonneville-t100-road-test/).
 
-![Bonneville](/images/bonneville/bonneville_march07.jpg)
+![Bonneville](/assets/photos/bonneville/bonneville_march07.jpg)
 
 The bike met with wife approval.  Triumph Motorcycles Ltd was building beautiful, dependable bikes.  Not some overpriced American clunker or Japanese wannabe.  Something in its own right. She even picked the color.  Black.
 
