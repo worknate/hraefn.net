@@ -13,4 +13,4 @@ My name is **Nathan Stilwell**. I am a software engineer with [Move, Inc](https:
 
 All code is released under [MIT](https://opensource.org/licenses/MIT). Images, video, and text are licensed under [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)
 
-Copyright © 2019
+Copyright © 2023
